@@ -12,3 +12,5 @@ import math
 import pickle
 import keras
 import tensorflow
+
+"practice
